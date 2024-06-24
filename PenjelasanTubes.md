@@ -1,6 +1,6 @@
 # <h1 align="center">Tugas Besar Struktur Data dan Akgoritma</h1>
 
-<p align="center">Kelompok Tri Harmony</p>
+<p align="center">Kelompok Tri Harmony - S1IF 11 D</p>
 
 ## Anggota Kelompok
 
