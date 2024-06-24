@@ -1,4 +1,4 @@
-# <h1 align="center">Tugas Besar Struktur Data dan Akgoritma</h1>
+# <h1 align="center">Tugas Besar Struktur Data dan Algoritma</h1>
 
 <p align="center">Kelompok Tri Harmony - S1IF 11 D</p>
 
